@@ -14,6 +14,7 @@
   
   @media screen and (max-width: 1200px) {
     #desktop-nav {
+      /* nav bar disappears when screen size < 1200 pixelx */
       display: none;
     }
     #hamburger-nav {
