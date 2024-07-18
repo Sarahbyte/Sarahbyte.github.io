@@ -353,8 +353,10 @@ article .icon {
   cursor: default;
 }
 
-/* PROJECTS SECTION */
 
+
+/* PROJECTS SECTION */
+/*
 #projects {
   position: relative;
 }
@@ -379,6 +381,9 @@ article .icon {
   color: black;
   border-color: rgb(163, 163, 163);
 }
+*/
+
+
 
 /* CONTACT */
 
